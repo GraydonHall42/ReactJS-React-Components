@@ -1,7 +1,7 @@
 //creating a new react component
 import React from "react";
-import List from "./List";
-import Heading from "./Heading";
+import List from "./components/List";
+import Heading from "./components/Heading";
 
 //USE PASCAL CASE (FIRST LETTER CAPITALIZED)
 //create heading function
